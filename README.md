@@ -12,6 +12,7 @@
 
 ## Credits 
 http://www.trial-n-error.de/posts/2012/12/31/logitech-k810-keyboard-configurator
+
 Mario Scholz's Logitech K810 configurator - Used for RPM packaging
 
 ## Tested and working on ubuntu 18.04
