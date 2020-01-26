@@ -7,7 +7,7 @@
 ## How to run
 
 * `sudo mv k810-conf /usr/local/bin`
-*  `sudo k810-conf -d /dev/`grep -H "Logitech K810" /sys/class/hidraw/hidraw*/device/uevent | cut -d/ -f 5` -f on`  or 
+*  `sudo k810-conf -d /dev/`grep -H "Logitech K810" /sys/class/hidraw/hidraw*/device/uevent | cut -d/ -f 5` -f on`  **or** 
 ` sudo k810-conf -d /dev/`grep -H "Logitech K810" /sys/class/hidraw/hidraw*/device/uevent | cut -d/ -f 5` -f off`
 
 ## Credits 
